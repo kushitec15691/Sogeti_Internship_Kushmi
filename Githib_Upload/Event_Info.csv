@@ -1,0 +1,721 @@
+﻿EventID,EventName,Sport,Season,SportID
+1,Tumbling,Gymnastics,Summer,3
+2,8M (Rating 1919),Sailing,Summer,9998
+3,Individual Competition,Modern Pentathlon,Summer,9998
+4,1/4 Mile (402.3M),Cycling,Summer,1001
+5,- 63KG (Lightweight),Judo,Summer,9998
+6,60 - 66KG,Judo,Summer,9998
+7,78 - 87KG (Middleweight),Wrestling,Summer,9998
+8,Cross Country Individual,Athletics,Summer,9998
+9,Individual All-Round,Gymnastics,Summer,9998
+10,Doubles Indoor,Tennis,Summer,9998
+11,- 51KG (Flyweight),Boxing,Summer,9998
+12,200M Medley,Aquatics,Summer,9998
+13,- 48KG,Wrestling,Summer,9998
+14,- 60KG (Featherweight),Wrestling,Summer,9998
+15,K-2 500M (Kayak Double),Canoe / Kayak,Summer,9998
+16,Single-Handed Dinghy (Finn),Sailing,Summer,9998
+17,Board (Windglider),Sailing,Summer,9998
+18,Class B Up To 60 Feet,Water Motorsports,Summer,9998
+19,Cricket,Cricket,Summer,9998
+20,Continental Style 50M,Archery,Summer,9998
+21,Eight With Coxswain,Rowing,Summer,9998
+22,300M Free Rifle 3 Positions (3X40 Shots),Shooting,Summer,9998
+23,400M Individual Medley,Aquatics,Summer,9998
+24,Army Rifle,Shooting,Summer,9998
+25,1500M,Athletics,Summer,9998
+26,Single Sculls (1X),Rowing,Summer,9998
+27,90 - 100KG (Heavyweight),Wrestling,Summer,9998
+28,6.5M (Rating 1919),Sailing,Summer,9998
+29,1000Y Free Rifle,Shooting,Summer,9998
+30,Team (Fita Olympic Round - 70M),Archery,Summer,9998
+31,63 - 67KG (Lightweight),Wrestling,Summer,9998
+32,57 - 63KG (Half-Middleweight),Judo,Summer,9998
+33,Team Pursuit,Cycling,Summer,9998
+34,57 - 60KG (Lightweight),Boxing,Summer,9998
+35,54 - 58KG,Wrestling,Summer,9998
+36,National Round (60Y - 50Y),Archery,Summer,9998
+37,60 - 66KG,Wrestling,Summer,9998
+38,Foil,Fencing,Summer,9998
+39,Basketball,Basketball,Summer,9998
+40,74 - 82KG (Middleweight),Wrestling,Summer,9998
+41,+ 93KG (Super Heavyweight),Wrestling,Summer,9998
+42,Wg 120 KG,Wrestling,Summer,9998
+43,+ 80KG (Heavyweight),Boxing,Summer,9998
+44,18 Foot Dinghy,Sailing,Summer,9998
+45,48 - 51KG (Flyweight),Boxing,Summer,9998
+46,3000M Walk,Athletics,Summer,9998
+47,97 - 130KG,Wrestling,Summer,9998
+48,50M Rifle Prone (60 Shots),Shooting,Summer,9998
+49,63KG,Weightlifting,Summer,9998
+50,200M Team Swimming,Aquatics,Summer,9998
+51,Coxed Fours Jugriggers,Rowing,Summer,9998
+52,76 - 85KG,Wrestling,Summer,9998
+53,K-1 500M (Kayak Single),Canoe / Kayak,Summer,9998
+54,pe,Fencing,Summer,9998
+55,Triple Jump,Athletics,Summer,9998
+56,+ 81KG (Heavyweight),Boxing,Summer,9998
+57,58 - 60KG (Featherweight),Wrestling,Summer,9998
+58,Trap,Shooting,Summer,9998
+59,Floor Exercises,Gymnastics,Summer,9998
+60,30M Sq,Sailing,Summer,9998
+61,55 - 60KG,Wrestling,Summer,9998
+62,+ 105KG,Weightlifting,Summer,9998
+63,Double Trap (120 Targets),Shooting,Summer,9998
+64,600M Free Rifle,Shooting,Summer,9998
+65,73 - 80KG (Light-Heavyweight),Boxing,Summer,9998
+66,50M Pistol,Shooting,Summer,9998
+67,85 - 97KG,Wrestling,Summer,9998
+68,72 - 79KG (Middleweight),Wrestling,Summer,9998
+69,70 - 80KG (Middleweight),Judo,Summer,9998
+70,Double Sculls,Rowing,Summer,9998
+71,Laser Radial,Sailing,Summer,9998
+72,6M (Rating 1919),Sailing,Summer,9998
+73,Wf 48 KG,Wrestling,Summer,9998
+74,94KG,Weightlifting,Summer,9998
+75,K-4 1000M (Kayak Four),Canoe / Kayak,Summer,9998
+76,- 52KG (Flyweight),Wrestling,Summer,9998
+77,4000M Freestyle,Aquatics,Summer,9998
+78,Open Category,Judo,Summer,9998
+79,+ 91KG,Boxing,Summer,9998
+80,75 - 82.5KG (Light-Heavyweight),Wrestling,Summer,9998
+81,70 - 78KG (Welterweight),Wrestling,Summer,9998
+82,58 - 63KG,Wrestling,Summer,9998
+83,63 - 70KG (Lightweight),Wrestling,Summer,9998
+84,Wf 63 KG,Wrestling,Summer,9998
+85,25M Army Pistol,Shooting,Summer,9998
+86,Individual,Equestrian,Summer,9998
+87,Lightweight Doubles,Rowing,Summer,9998
+88,Individual,Skating,Summer,9998
+89,Marathon,Athletics,Summer,9998
+90,50Y Army Pistol,Shooting,Summer,9998
+91,56KG,Boxing,Summer,9998
+92,Double National Round (60Y - 50Y),Archery,Summer,9998
+93,Pommel Horse,Gymnastics,Summer,9998
+94,61 - 66KG (Lightweight),Wrestling,Summer,9998
+95,Olympic Class Monotype,Sailing,Summer,9998
+96,Wf 66 KG,Wrestling,Summer,9998
+97,Finn - Heavyweight Dinghy,Sailing,Summer,9998
+98,4X400M Relay,Athletics,Summer,9998
+99,60 - 63.5KG (Light-Welterweight),Boxing,Summer,9998
+100,50KM Walk,Athletics,Summer,9998
+101,Individual Fita Round,Archery,Summer,9998
+102,Moving Bird Target 50M Teams,Archery,Summer,9998
+103,100M,Athletics,Summer,9998
+104,Team Horizontal Bar,Gymnastics,Summer,9998
+105,470 - Two Person Dinghy,Sailing,Summer,9998
+106,66 - 73KG,Judo,Summer,9998
+107,81 - 91KG (Heavyweight),Boxing,Summer,9998
+108,20KM Walk,Athletics,Summer,9998
+109,54 - 57.15KG (Featherweight),Boxing,Summer,9998
+110,0.5-1T,Sailing,Summer,9998
+111,Skeet (75 Targets),Shooting,Summer,9998
+112,Board (Lechner),Sailing,Summer,9998
+113,25M Pistol (30+30 Shots),Shooting,Summer,9998
+114,Individual (Fita Olympic Round - 70M),Archery,Summer,9998
+115,66.68 - 72.57KG (Middleweight),Boxing,Summer,9998
+116,Madison,Cycling,Summer,9998
+117,58 - 62KG (Lightweight),Boxing,Summer,9998
+118,65.77 - 71.67KG (Middleweight),Boxing,Summer,9998
+119,Double York Round (100Y - 80Y - 60Y),Archery,Summer,9998
+120,3000M Steeple,Athletics,Summer,9998
+121,Singles,Table Tennis,Summer,9998
+122,1/2 Mile (804.7M),Cycling,Summer,9998
+123,K-2 200M,Canoe,Summer,9998
+124,Team,Aquatics,Summer,9998
+125,8M Class C,Water Motorsports,Summer,9998
+126,100KM,Cycling,Summer,9998
+127,Cross-Country,Cycling,Summer,9998
+128,74 - 84KG,Wrestling,Summer,9998
+129,50M Rifle 3 Positions (3X40 Shots),Shooting,Summer,9998
+130,Lightweight Double Sculls (2X),Rowing,Summer,9998
+131,470,Sailing,Summer,9998
+132,+ 71.67KG (Heavyweight),Boxing,Summer,9998
+133,100M Hurdles,Athletics,Summer,9998
+134,Team Round 60Y,Archery,Summer,9998
+135,4X100M Medley Relay,Aquatics,Summer,9998
+136,Omnium,Cycling,Summer,9998
+137,Quadruple Sculls Without Coxswain (4X),Rowing,Summer,9998
+138,70 - 78KG (Half-Heavyweight),Judo,Summer,9998
+139,12 Foot Dinghy Individual,Sailing,Summer,9998
+140,7M,Sailing,Summer,9998
+141,+ 72KG (Heavyweight),Judo,Summer,9998
+142,10KM,Cycling,Summer,9998
+143,5000M Team,Athletics,Summer,9998
+144,61 - 67KG (Lightweight),Wrestling,Summer,9998
+145,Stick,Fencing,Summer,9998
+146,8M (Rating 1907),Sailing,Summer,9998
+147,4X100M Medley,Aquatics,Summer,9998
+148,Indian Clubs,Gymnastics,Summer,9998
+149,4X100M Freestyle Relay,Aquatics,Summer,9998
+150,400M Medley,Aquatics,Summer,9998
+151,56KG,Weightlifting,Summer,9998
+152,50M Rifle Prone,Shooting,Summer,9998
+153,-56KG,Weightlifting,Summer,9998
+154,60.3 - 66.6KG (Lightweight),Wrestling,Summer,9998
+155,25 Miles (40.232KM),Cycling,Summer,9998
+156,48 - 54KG,Wrestling,Summer,9998
+157,69 - 75 KG,Boxing,Summer,9998
+158,Synchronized 10M,Aquatics,Summer,9998
+159,Fixed Bird Target Large Birds,Archery,Summer,9998
+160,57 - 62KG (Featherweight),Wrestling,Summer,9998
+161,10M (Rating 1919),Sailing,Summer,9998
+162,C-1 500M (Canoe Single),Canoe / Kayak,Summer,9998
+163,78 - 86KG (Middleweight),Judo,Summer,9998
+164,Wg 96 KG,Wrestling,Summer,9998
+165,56 - 61KG (Featherweight),Wrestling,Summer,9998
+166,Double American Round (60Y - 50Y - 40Y),Archery,Summer,9998
+167,Wf 55 KG,Wrestling,Summer,9998
+168,Long Jump Individual,Equestrian,Summer,9998
+169,80M Hurdles,Athletics,Summer,9998
+170,49 - 57 KG,Taekwondo,Summer,9998
+171,96 - 120KG,Wrestling,Summer,9998
+172,81 - 90KG (Middleweight),Judo,Summer,9998
+173,Individual Time Trial,Cycling,Summer,9998
+174,10M Air Rifle (40 Shots),Shooting,Summer,9998
+175,C-1 (Single),Canoe,Summer,9998
+176,Individual,Cycling,Summer,9998
+177,58 - 62KG (Featherweight),Wrestling,Summer,9998
+178,Synchronized 3M,Aquatics,Summer,9998
+179,Triathlon (Long Jump / Shot Put / 100 Yards),Athletics,Summer,9998
+180,Sur La Perche  La Herse,Archery,Summer,9998
+181,63.5 - 67KG (Welterweight),Boxing,Summer,9998
+182,400M Freestyle,Aquatics,Summer,9998
+183,10Miles Walk (16093M),Athletics,Summer,9998
+184,Finn,Sailing,Summer,9998
+185,K-1 (Single),Canoe,Summer,9998
+186,Solo,Aquatics,Summer,9998
+187,82 - 90KG (Light-Heavyweight),Wrestling,Summer,9998
+188,1200M Freestyle,Aquatics,Summer,9998
+189,62 - 67.5KG (Lightweight),Wrestling,Summer,9998
+190,Wg 74 KG,Wrestling,Summer,9998
+191,Discus Throw Ancient Style,Athletics,Summer,9998
+192,Decathlon,Athletics,Summer,9998
+193,52 - 57KG (Bantamweight),Wrestling,Summer,9998
+194,25M Pistol,Shooting,Summer,9998
+195,50M Army Pistol,Shooting,Summer,9998
+196,- 54KG (Bantamweight),Wrestling,Summer,9998
+197,K-4 500M (Kayak Four),Canoe / Kayak,Summer,9998
+198,10M Air Pistol (60 Shots),Shooting,Summer,9998
+199,Handball,Handball,Summer,9998
+200,Rugby,Rugby,Summer,9998
+201,3-10T,Sailing,Summer,9998
+202,12-Hour Race,Cycling,Summer,9998
+203,Synchronized Diving 10M Platform,Aquatics,Summer,9998
+204,+75KG,Weightlifting,Summer,9998
+205,Fixed Bird Target Large Birds Teams,Archery,Summer,9998
+206,60 - 66KG (Half-Lightweight),Judo,Summer,9998
+207,Team Competition,Modern Pentathlon,Summer,9998
+208,12M,Sailing,Summer,9998
+209,63.5 - 71.67KG (Middleweight),Boxing,Summer,9998
+210,Clay Pigeons,Shooting,Summer,9998
+211,Figure Riding Team,Equestrian,Summer,9998
+212,Doubles,Table Tennis,Summer,9998
+213,- 47.6KG (Light-Flyweight),Wrestling,Summer,9998
+214,K-2 1000M (Kayak Double),Canoe / Kayak,Summer,9998
+215,81 - 90KG,Judo,Summer,9998
+216,200M Obstacle Event,Aquatics,Summer,9998
+217,62 - 67KG (Welterweight),Boxing,Summer,9998
+218,62 - 68KG (Lightweight),Wrestling,Summer,9998
+219,+ 87KG (Heavyweight),Wrestling,Summer,9998
+220,200M Butterfly,Aquatics,Summer,9998
+221,Double Trap (150 Targets),Shooting,Summer,9998
+222,+ 73KG (Heavyweight),Wrestling,Summer,9998
+223,49Er - Skiff,Sailing,Summer,9998
+224,C-1 1000M (Canoe Single),Canoe / Kayak,Summer,9998
+225,Double Columbia Round (50Y - 40Y - 30Y),Archery,Summer,9998
+226,56 - 61KG (Half-Middleweight),Judo,Summer,9998
+227,Individual,Golf,Summer,9998
+228,Pentathlon,Athletics,Summer,9998
+229,Team,Archery,Summer,9998
+230,Quadruple Sculls With Coxswain (4X),Rowing,Summer,9998
+231,Free Rifle,Shooting,Summer,9998
+232,Pole Vault,Athletics,Summer,9998
+233,Pairs,Skating,Summer,9998
+234,68 - 80 KG,Taekwondo,Summer,9998
+235,500M Time Trial,Cycling,Summer,9998
+236,50M Pistol (60 Shots),Shooting,Summer,9998
+237,73 - 81KG (Half-Middleweight),Judo,Summer,9998
+238,50KM,Cycling,Summer,9998
+239,100M Running Deer,Shooting,Summer,9998
+240,50M Freestyle,Aquatics,Summer,9998
+241,60 - 67.5KG (Lightweight),Wrestling,Summer,9998
+242,54 - 58KG (Featherweight),Boxing,Summer,9998
+243,Four Without Coxswain (4-),Rowing,Summer,9998
+244,4Miles Team,Athletics,Summer,9998
+245,Doubles,Badminton,Summer,9998
+246,K-1 200M,Canoe,Summer,9998
+247,66 - 72KG (Half-Heavyweight),Judo,Summer,9998
+248,Tempest,Sailing,Summer,9998
+249,63 - 69KG,Wrestling,Summer,9998
+250,Laser - One Person Dinghy,Sailing,Summer,9998
+251,Wf 74 KG,Wrestling,Summer,9998
+252,12M (Rating 1919),Sailing,Summer,9998
+253,2000M Tandem,Cycling,Summer,9998
+254,Moving Bird Target 28M Teams,Archery,Summer,9998
+255,- 55KG,Wrestling,Summer,9998
+256,- 47.63KG (Flyweight),Boxing,Summer,9998
+257,48 - 52KG,Judo,Summer,9998
+258,Foil Individual,Fencing,Summer,9998
+259,25M Small Bore Rifle,Shooting,Summer,9998
+260,York Round (100Y - 80Y - 60Y),Archery,Summer,9998
+261,+ 97KG (Heavyweight),Wrestling,Summer,9998
+262,Board (Mistral),Sailing,Summer,9998
+263,Horizontal Bar,Gymnastics,Summer,9998
+264,50M Rifle 3 Positions,Shooting,Summer,9998
+265,53KG,Weightlifting,Summer,9998
+266,100 - 130KG (Super Heavyweight),Wrestling,Summer,9998
+267,10M Platform,Aquatics,Summer,9998
+268,Individual,Modern Pentathlon,Summer,9998
+269,100M Freestyle,Aquatics,Summer,9998
+270,69KG,Weightlifting,Summer,9998
+271,25M Rapid Pistol,Shooting,Summer,9998
+272,Plunge For Distance,Aquatics,Summer,9998
+273,Coxless Pair (2-),Rowing,Summer,9998
+274,4X100M Relay,Athletics,Summer,9998
+275,Uneven Bars,Gymnastics,Summer,9998
+276,Double,Rackets,Summer,9998
+277,K-1 500M,Canoe,Summer,9998
+278,67 - 73KG (Middleweight),Boxing,Summer,9998
+279,- 48KG (Light-Flyweight),Wrestling,Summer,9998
+280,K-2 1000M,Canoe,Summer,9998
+281,66 - 72KG (Welterweight),Wrestling,Summer,9998
+282,1 Mile (1609.3M),Cycling,Summer,9998
+283,48 - 55KG,Wrestling,Summer,9998
+284,K-1 (Kayak Single),Canoe / Kayak,Summer,9998
+285,Rings,Gymnastics,Summer,9998
+286,Wg 66 KG,Wrestling,Summer,9998
+287,61.23 - 65.77KG (Lightweight),Wrestling,Summer,9998
+288,Team,Gymnastics,Summer,9998
+289,Pair-Oared Shell With Coxswain (2+),Rowing,Summer,9998
+290,Folding K-1 10000M,Canoe / Kayak,Summer,9998
+291,Beam,Gymnastics,Summer,9998
+292,Shot Put,Athletics,Summer,9998
+293,- 56KG (Bantamweight),Wrestling,Summer,9998
+294,Individual,Jeu de paume,Summer,9998
+295,Open Event,Wrestling,Summer,9998
+296,Synchronized Diving 3M Springboard,Aquatics,Summer,9998
+297,63 - 70KG,Judo,Summer,9998
+298,Au Cordon Dor,Archery,Summer,9998
+299,K-1 4X500M,Canoe / Kayak,Summer,9998
+300,3Miles Team (4828M),Athletics,Summer,9998
+301,880Y Freestyle (804.66M),Aquatics,Summer,9998
+302,1500M Freestyle,Aquatics,Summer,9998
+303,53.52 - 57.15KG (Featherweight),Boxing,Summer,9998
+304,52.62 - 57.15KG (Featherweight),Boxing,Summer,9998
+305,60 - 64 KG,Boxing,Summer,9998
+306,Individual,Gymnastics,Summer,9998
+307,+ 100KG (Super Heavyweight),Wrestling,Summer,9998
+308,73 - 93KG (Light-Heavyweight),Wrestling,Summer,9998
+309,Points Race,Cycling,Summer,9998
+310,Yngling - Keelboat,Sailing,Summer,9998
+311,Board (Division Ii),Sailing,Summer,9998
+312,100M Butterfly,Aquatics,Summer,9998
+313,C-2 1000M,Canoe,Summer,9998
+314,50.8 - 54KG (Bantamweight),Boxing,Summer,9998
+315,Rs:X - Windsurfer,Sailing,Summer,9998
+316,pe Team,Fencing,Summer,9998
+317,Underwater Swimming,Aquatics,Summer,9998
+318,90 - 100KG,Judo,Summer,9998
+319,Wg 60 KG,Wrestling,Summer,9998
+320,Javelin Throw,Athletics,Summer,9998
+321,Parallel Bars,Gymnastics,Summer,9998
+322,C-2 500M (Canoe Double),Canoe / Kayak,Summer,9998
+323,Team,Equestrian,Summer,9998
+324,6M (Rating 1907),Sailing,Summer,9998
+325,4X50Y Freestyle Relay,Aquatics,Summer,9998
+326,5000M,Cycling,Summer,9998
+327,+ 82.5KG (Super Heavyweight),Wrestling,Summer,9998
+328,Team,Golf,Summer,9998
+329,Dragon,Sailing,Summer,9998
+330,- 60 KG,Judo,Summer,9998
+331,66.6 - 73KG (Middleweight),Wrestling,Summer,9998
+332,Individual,Triathlon,Summer,9998
+333,57 - 60KG,Boxing,Summer,9998
+334,C-1 200M,Canoe,Summer,9998
+335,K-1 10000M,Canoe / Kayak,Summer,9998
+336,Rs:X,Sailing,Summer,9998
+337,200M Hurdles,Athletics,Summer,9998
+338,Club Swinging,Gymnastics,Summer,9998
+339,68 - 80KG (Middleweight),Judo,Summer,9998
+340,5 Miles (8.046KM),Cycling,Summer,9998
+341,Heavyweight - Two Hand Lift,Weightlifting,Summer,9998
+342,Baseball,Baseball,Summer,9998
+343,K-2 10000M,Canoe / Kayak,Summer,9998
+344,72.57 - 79.38KG (Light-Heavyweight),Boxing,Summer,9998
+345,1/3 Mile (536.5M),Cycling,Summer,9998
+346,Open Class A,Water Motorsports,Summer,9998
+347,57.15 - 63.5KG (Lightweight),Boxing,Summer,9998
+348,Two-Person Keelboat Open (Star),Sailing,Summer,9998
+349,C-2 1000M (Canoe Double),Canoe / Kayak,Summer,9998
+350,61 - 66KG (Middleweight),Judo,Summer,9998
+351,50Y Freestyle (45.72M),Aquatics,Summer,9998
+352,Figure Riding Individual,Equestrian,Summer,9998
+353,Double Trap 150,Shooting,Summer,9998
+354,Eight With Coxswain (8+),Rowing,Summer,9998
+355,K-4 500M,Canoe,Summer,9998
+356,12 Foot Dinghy,Sailing,Summer,9998
+357,48KG,Weightlifting,Summer,9998
+358,48KG (Light Flywieght),Boxing,Summer,9998
+359,One Lap (660Y) Sprint,Cycling,Summer,9998
+360,Teams Fita Round,Archery,Summer,9998
+361,75 KG,Boxing,Summer,9998
+362,+ 87KG (Super Heavyweight),Wrestling,Summer,9998
+363,62KG,Weightlifting,Summer,9998
+364,- 52.62KG (Bantamweight),Boxing,Summer,9998
+365,Pair Without Coxswain (2-),Rowing,Summer,9998
+366,58 - 68 KG,Taekwondo,Summer,9998
+367,+ 75KG,Weightlifting,Summer,9998
+368,Individual 1 Ball,Croquet,Summer,9998
+369,60 - 65KG (Half-Lightweight),Judo,Summer,9998
+370,8M,Sailing,Summer,9998
+371,100M Freestyle For Sailors,Aquatics,Summer,9998
+372,Wg 55 KG,Wrestling,Summer,9998
+373,75 - 81KG,Boxing,Summer,9998
+374,Fixed Bird Target Small Bird,Archery,Summer,9998
+375,Hammer Throw,Athletics,Summer,9998
+376,Group Competition,Gymnastics,Summer,9998
+377,200M Backstroke,Aquatics,Summer,9998
+378,Sur La Perche  La Pyramide,Archery,Summer,9998
+379,Moving Bird Target,Archery,Summer,9998
+380,Mixed Doubles,Tennis,Summer,9998
+381,+ 71.67KG (Heavyweight),Wrestling,Summer,9998
+382,71-75KG,Boxing,Summer,9998
+383,Sidehorse Vault,Gymnastics,Summer,9998
+384,Sprint Indivual,Cycling,Summer,9998
+385,Rifle,Shooting,Summer,9998
+386,Ice Hockey,Ice Hockey,Summer,9998
+387,75 - 81KG (Light-Heavyweight),Boxing,Summer,9998
+388,Au Chapelet,Archery,Summer,9998
+389,Wf 60 KG,Wrestling,Summer,9998
+390,10M Air Pistol (40 Shots),Shooting,Summer,9998
+391,Sharpie 12M2,Sailing,Summer,9998
+392,Singles,Tennis,Summer,9998
+393,200M,Athletics,Summer,9998
+394,4X200M Freestyle Relay,Aquatics,Summer,9998
+395,C-1 10000M,Canoe / Kayak,Summer,9998
+396,Singles,Badminton,Summer,9998
+397,400M Breaststroke,Aquatics,Summer,9998
+398,57 - 67 KG,Taekwondo,Summer,9998
+399,50+100Y Small Bore Rifle,Shooting,Summer,9998
+400,Individual,Roque,Summer,9998
+401,5.5M,Sailing,Summer,9998
+402,Time Trial,Cycling,Summer,9998
+403,10-20T,Sailing,Summer,9998
+404,25M Small Rifle,Shooting,Summer,9998
+405,pe Individual,Fencing,Summer,9998
+406,Star,Sailing,Summer,9998
+407,51 KG,Boxing,Summer,9998
+408,Laser Radial - One Person Dinghy,Sailing,Summer,9998
+409,Mixed Doubles Indoor,Tennis,Summer,9998
+410,71 - 78KG (Half-Middleweight),Judo,Summer,9998
+411,Lightweight Coxless Four (4-),Rowing,Summer,9998
+412,Wf 84 KG,Wrestling,Summer,9998
+413,C-2 (Double),Canoe,Summer,9998
+414,Coxless Pair 2-,Rowing,Summer,9998
+415,52.16 - 56.7KG (Bantamweight),Wrestling,Summer,9998
+416,50M Running Target (30+30 Shots),Shooting,Summer,9998
+417,66 - 73KG (Lightweight),Judo,Summer,9998
+418,Vault,Gymnastics,Summer,9998
+419,400M Hurdles,Athletics,Summer,9998
+420,3M Springboard,Aquatics,Summer,9998
+421,87 - 97KG (Light-Heavyweight),Wrestling,Summer,9998
+422,Olympic Sprint,Cycling,Summer,9998
+423,3000M Steeplechase,Athletics,Summer,9998
+424,+ 67 KG,Taekwondo,Summer,9998
+425,Team Pursuit (4000M),Cycling,Summer,9998
+426,400M,Athletics,Summer,9998
+427,75 - 80KG (Light-Heavyweight),Wrestling,Summer,9998
+428,25Y Small Bore Rifle,Shooting,Summer,9998
+429,52 - 57KG,Judo,Summer,9998
+430,Heavyweight - One Hand Lift,Weightlifting,Summer,9998
+431,Duet,Aquatics,Summer,9998
+432,Individual Pursuit,Cycling,Summer,9998
+433,80 - 93KG (Half-Heavyweight),Judo,Summer,9998
+434,200M Breaststroke,Aquatics,Summer,9998
+435,+ 97KG (Super Heavyweight),Wrestling,Summer,9998
+436,- 66.6KG (Lightweight),Wrestling,Summer,9998
+437,Plain High Diving,Aquatics,Summer,9998
+438,Sabre Team,Fencing,Summer,9998
+439,Team Competition,Gymnastics,Summer,9998
+440,51 - 54KG (Bantamweight),Boxing,Summer,9998
+441,47.63 - 52.16KG (Bantamweight),Boxing,Summer,9998
+442,2 Miles (3.218KM),Cycling,Summer,9998
+443,Laser,Sailing,Summer,9998
+444,50M Small Bore Rifle,Shooting,Summer,9998
+445,10M (Rating 1907),Sailing,Summer,9998
+446,3500M Walk,Athletics,Summer,9998
+447,Tug Of War,Tug of War,Summer,9998
+448,4X100M Freestyle,Aquatics,Summer,9998
+449,K-1 1000M (Kayak Single),Canoe / Kayak,Summer,9998
+450,Trap (125 Targets),Shooting,Summer,9998
+451,+ 80KG (Heavyweight),Wrestling,Summer,9998
+452,Star - Keelboat,Sailing,Summer,9998
+453,Elliott 6M,Sailing,Summer,9998
+454,K-4 1000M,Canoe,Summer,9998
+455,+ 78KG (Heavyweight),Judo,Summer,9998
+456,Marathon 10KM,Aquatics,Summer,9998
+457,73 - 81KG,Judo,Summer,9998
+458,25 Kilometres,Cycling,Summer,9998
+459,30M Army Pistol,Shooting,Summer,9998
+460,Moving Bird Target 33M Teams,Archery,Summer,9998
+461,1980 Yards Pursuit,Cycling,Summer,9998
+462,Individual,Archery,Summer,9998
+463,+105KG,Weightlifting,Summer,9998
+464,10KM,Aquatics,Summer,9998
+465,54 - 60.3KG (Featherweight),Wrestling,Summer,9998
+466,56LB Weight Throw (25.4KG),Athletics,Summer,9998
+467,10M Running Target (30+30 Shots),Shooting,Summer,9998
+468,60M,Athletics,Summer,9998
+469,55 - 63KG,Wrestling,Summer,9998
+470,84 - 96KG,Wrestling,Summer,9998
+471,54 - 57KG (Featherweight),Boxing,Summer,9998
+472,+ 91KG (Super Heavyweight),Boxing,Summer,9998
+473,10M Air Rifle (60 Shots),Shooting,Summer,9998
+474,+ 93KG (Heavyweight),Judo,Summer,9998
+475,Javelin Throw Freestyle,Athletics,Summer,9998
+476,Individual All-Around,Gymnastics,Summer,9998
+477,73 - 79KG (Middleweight),Wrestling,Summer,9998
+478,75KG,Weightlifting,Summer,9998
+479,K-2 500M,Canoe,Summer,9998
+480,77KG,Weightlifting,Summer,9998
+481,20KM Race Walk,Athletics,Summer,9998
+482,90 - 100KG (Half-Heavyweight),Judo,Summer,9998
+483,48 - 52KG (Flyweight),Wrestling,Summer,9998
+484,52KG,Boxing,Summer,9998
+485,67.5 - 75KG (Middleweight),Wrestling,Summer,9998
+486,Coxless Four,Rowing,Summer,9998
+487,- 58KG (Bantamweight),Wrestling,Summer,9998
+488,4000M Steeplechase,Athletics,Summer,9998
+489,+ 82KG (Super Heavyweight),Wrestling,Summer,9998
+490,Single Sculls,Rowing,Summer,9998
+491,64 - 69 KG,Boxing,Summer,9998
+492,Firefly Class,Sailing,Summer,9998
+493,57.15 - 61.24KG (Lightweight),Boxing,Summer,9998
+494,C-1 1000M,Canoe,Summer,9998
+495,68 - 74KG (Welterweight),Wrestling,Summer,9998
+496,+ 80 KG,Taekwondo,Summer,9998
+497,67 - 71KG (Light-Middleweight),Boxing,Summer,9998
+498,300+600M Free Rifle,Shooting,Summer,9998
+499,Four-Oared Shell With Coxswain (4-),Rowing,Summer,9998
+500,47.6 - 52.16KG (Flyweight),Wrestling,Summer,9998
+501,46 - 49KG,Boxing,Summer,9998
+502,10M,Sailing,Summer,9998
+503,Sabre,Fencing,Summer,9998
+504,110M Hurdles,Athletics,Summer,9998
+505,300M Free Rifle,Shooting,Summer,9998
+506,Sprint,Cycling,Summer,9998
+507,67 - 73KG (Welterweight),Wrestling,Summer,9998
+508,Combined 3 Events,Gymnastics,Summer,9998
+509,+ 80KG (Heavyweight),Judo,Summer,9998
+510,3000M,Athletics,Summer,9998
+511,Team,Table Tennis,Summer,9998
+512,- 68KG (Lightweight),Judo,Summer,9998
+513,Wf 72 KG,Wrestling,Summer,9998
+514,Cesta Punta,Basque Pelota,Summer,9998
+515,Individual Road Race,Cycling,Summer,9998
+516,200M Individual Medley,Aquatics,Summer,9998
+517,Special Figures,Skating,Summer,9998
+518,Skeet (125 Targets),Shooting,Summer,9998
+519,800M,Athletics,Summer,9998
+520,Wf 120KG,Wrestling,Summer,9998
+521,61.24 - 66.68KG (Welterweight),Boxing,Summer,9998
+522,Volleyball,Volleyball,Summer,9998
+523,+ 79.38KG (Heavyweight),Boxing,Summer,9998
+524,200M Freestyle,Aquatics,Summer,9998
+525,Trap (75 Targets),Shooting,Summer,9998
+526,50.8 - 53.52KG (Bantamweight),Boxing,Summer,9998
+527,Wg 84 KG,Wrestling,Summer,9998
+528,Foil Team,Fencing,Summer,9998
+529,Team Time Trial,Cycling,Summer,9998
+530,65 - 71KG (Lightweight),Judo,Summer,9998
+531,Rope Climbing,Gymnastics,Summer,9998
+532,+ 100KG (Heavyweight),Judo,Summer,9998
+533,81 - 91KG,Boxing,Summer,9998
+534,56.7 - 61.23KG (Featherweight),Wrestling,Summer,9998
+535,- 49 KG,Taekwondo,Summer,9998
+536,- 50.8KG (Flyweight),Boxing,Summer,9998
+537,K-1 1000M,Canoe,Summer,9998
+538,Individual,Rackets,Summer,9998
+539,+ 78KG,Judo,Summer,9998
+540,70 - 78KG,Judo,Summer,9998
+541,Team Sprint,Cycling,Summer,9998
+542,85KG,Weightlifting,Summer,9998
+543,5000M,Athletics,Summer,9998
+544,Beach Volleyball,Volleyball,Summer,9998
+545,105KG,Weightlifting,Summer,9998
+546,- 48KG (Light-Flyweight),Boxing,Summer,9998
+547,+ 100KG,Judo,Summer,9998
+548,48 - 52KG (Half-Lightweight),Judo,Summer,9998
+549,Single-Handed Dinghy (Europe),Sailing,Summer,9998
+550,Wf 96 KG,Wrestling,Summer,9998
+551,57 - 63KG (Featherweight),Wrestling,Summer,9998
+552,Individual Road,Cycling,Summer,9998
+553,Combined 4 Events,Gymnastics,Summer,9998
+554,69 - 76KG,Wrestling,Summer,9998
+555,Football,Football,Summer,9998
+556,C-1 (Canoe Single),Canoe / Kayak,Summer,9998
+557,Discus Throw,Athletics,Summer,9998
+558,63 - 70KG (Half-Middleweight),Judo,Summer,9998
+559,63 - 72KG,Wrestling,Summer,9998
+560,52 - 57KG (Lightweight),Judo,Summer,9998
+561,52.16 - 56.7KG (Featherweight),Boxing,Summer,9998
+562,Long Jump,Athletics,Summer,9998
+563,Keirin,Cycling,Summer,9998
+564,Lightweight 4,Rowing,Summer,9998
+565,C-2 (Canoe Double),Canoe / Kayak,Summer,9998
+566,61.24 - 65.77KG (Welterweight),Boxing,Summer,9998
+567,63 - 70KG (Middleweight),Judo,Summer,9998
+568,4X200M Freestyle,Aquatics,Summer,9998
+569,Double,Croquet,Summer,9998
+570,57 - 63KG,Judo,Summer,9998
+571,Softball,Softball,Summer,9998
+572,Double Sculls (2X),Rowing,Summer,9998
+573,Heptathlon,Athletics,Summer,9998
+574,58KG,Weightlifting,Summer,9998
+575,Balance Beam,Gymnastics,Summer,9998
+576,Skeet,Shooting,Summer,9998
+577,Flying Dutchman,Sailing,Summer,9998
+578,- 48 KG,Judo,Summer,9998
+579,3000M Team,Athletics,Summer,9998
+580,High Jump,Equestrian,Summer,9998
+581,Swallow (Golondrina),Sailing,Summer,9998
+582,3200M Steeplechase,Athletics,Summer,9998
+583,C-2 10000M,Canoe / Kayak,Summer,9998
+584,- 58 KG,Taekwondo,Summer,9998
+585,Fleet/Match Race Keelboat Open (Soling),Sailing,Summer,9998
+586,Coxless Four (4-),Rowing,Summer,9998
+587,Individual 2 Balls,Croquet,Summer,9998
+588,10M Air Pistol,Shooting,Summer,9998
+589,Doubles,Tennis,Summer,9998
+590,50M Rifle 3 Positions (3X20 Shots),Shooting,Summer,9998
+591,56.7 - 61.24KG (Lightweight),Boxing,Summer,9998
+592,86 - 95KG (Half-Heavyweight),Judo,Summer,9998
+593,Polo,Polo,Summer,9998
+594,10000M,Athletics,Summer,9998
+595,65.77 - 71.67KG (Welterweight),Wrestling,Summer,9998
+596,Hockey,Hockey,Summer,9998
+597,Fixed Bird Target Small Birds,Archery,Summer,9998
+598,79 - 87KG (Light-Heavyweight),Wrestling,Summer,9998
+599,Tornado - Multihull,Sailing,Summer,9998
+600,57 - 61KG (Featherweight),Wrestling,Summer,9998
+601,Sabre Individual,Fencing,Summer,9998
+602,All-Around Dumbbell Contest,Weightlifting,Summer,9998
+603,Single-Handed Dinghy Open (Laser),Sailing,Summer,9998
+604,6M,Sailing,Summer,9998
+605,25M Rapid Fire Pistol (60 Shots),Shooting,Summer,9998
+606,Open Class,Sailing,Summer,9998
+607,+ 95KG (Heavyweight),Judo,Summer,9998
+608,Singles Indoor,Tennis,Summer,9998
+609,12M (Rating 1907),Sailing,Summer,9998
+610,Folding K-2 10000M,Canoe / Kayak,Summer,9998
+611,60 KG,Boxing,Summer,9998
+612,800M Freestyle,Aquatics,Summer,9998
+613,75 - 82KG (Light-Heavyweight),Wrestling,Summer,9998
+614,Cross Country Team,Athletics,Summer,9998
+615,52 - 56KG (Lightweight),Judo,Summer,9998
+616,40M Sq,Sailing,Summer,9998
+617,High Jump,Athletics,Summer,9998
+618,1KM Pursuit,Cycling,Summer,9998
+619,10M Air Rifle,Shooting,Summer,9998
+620,100M Breaststroke,Aquatics,Summer,9998
+621,1KM Time Trial,Cycling,Summer,9998
+622,100M Backstroke,Aquatics,Summer,9998
+623,10000M Walk,Athletics,Summer,9998
+624,- 48KG (Extra-Lightweight),Judo,Summer,9998
+625,66 - 74KG,Wrestling,Summer,9998
+626,5 Miles (8047M),Athletics,Summer,9998
+627,Water Polo,Aquatics,Summer,9998
+628,Lacrosse,Lacrosse,Summer,9998
+629,20KM,Cycling,Summer,9998
+630,Quadruple Sculls,Rowing,Summer,9998
+631,Large Hill,Skiing,Winter,9998
+632,Individual Sprint,Skiing,Winter,9998
+633,20KM,Biathlon,Winter,9998
+634,12.5KM Mass Start,Biathlon,Winter,9998
+635,Team Pursuit,Skating,Winter,9998
+636,Team,Skiing,Winter,9998
+637,Giant Parallel Slalom,Skiing,Winter,9998
+638,Sprint 1.5KM,Skiing,Winter,9998
+639,Sprint K120,Skiing,Winter,9998
+640,Parallel Slalom,Skiing,Winter,9998
+641,Combined 5KM + 10KM Pursuit,Skiing,Winter,9998
+642,Snowboard Cross,Skiing,Winter,9998
+643,5Km Pursuit,Skiing,Winter,9998
+644,Mixed Relay,Luge,Winter,9998
+645,K90 Individual (70M),Skiing,Winter,9998
+646,500M,Skating,Winter,9998
+647,Half-Pipe,Skiing,Winter,9998
+648,Individual,Bobsleigh,Winter,9998
+649,Sprint,Skiing,Winter,9998
+650,Team Sprint,Skiing,Winter,9998
+651,Ind. K90 (70M),Skiing,Winter,9998
+652,3X5KM Relay,Skiing,Winter,9998
+653,3000M Relay,Skating,Winter,9998
+654,Individual,Skating,Winter,9998
+655,Combined 15+15K,Skiing,Winter,9998
+656,Normal Hill,Skiing,Winter,9998
+657,18KM,Skiing,Winter,9998
+658,Alpine Combined,Skiing,Winter,9998
+659,10KM,Biathlon,Winter,9998
+660,1500M,Skating,Winter,9998
+661,Ski Halfpipe,Skiing,Winter,9998
+662,Five-Man,Bobsleigh,Winter,9998
+663,Aerials,Skiing,Winter,9998
+664,5000M Relay,Skating,Winter,9998
+665,Giant Parall.S.,Skiing,Winter,9998
+666,Two-Man,Bobsleigh,Winter,9998
+667,15KM,Skiing,Winter,9998
+668,Ski Cross,Skiing,Winter,9998
+669,Ski Slopestyle,Skiing,Winter,9998
+670,Moguls,Skiing,Winter,9998
+671,15KM Mass Start,Biathlon,Winter,9998
+672,4X6KM Relay,Biathlon,Winter,9998
+673,Downhill,Skiing,Winter,9998
+674,10KM Pursuit,Biathlon,Winter,9998
+675,Pairs,Skating,Winter,9998
+676,30KM,Skiing,Winter,9998
+677,Giant Slalom,Skiing,Winter,9998
+678,Slalom,Skiing,Winter,9998
+679,5KM,Skiing,Winter,9998
+680,Military Patrol,Biathlon,Winter,9998
+681,7.5KM,Biathlon,Winter,9998
+682,20KM,Skiing,Winter,9998
+683,Two-Woman,Bobsleigh,Winter,9998
+684,10KM Pursuit,Skiing,Winter,9998
+685,15KM Mass Start,Skiing,Winter,9998
+686,Team,Skating,Winter,9998
+687,K90 Individual,Skiing,Winter,9998
+688,5000M,Skating,Winter,9998
+689,Four-Man,Bobsleigh,Winter,9998
+690,Combined 7.5 + 7.5Km Mass Start,Skiing,Winter,9998
+691,K120 Team (90M),Skiing,Winter,9998
+692,4X5KM Relay,Skiing,Winter,9998
+693,Super Combined,Skiing,Winter,9998
+694,Giant-Slalom,Skiing,Winter,9998
+695,Ice Hockey,Ice Hockey,Winter,9998
+696,Combined7.5+7.5,Skiing,Winter,9998
+697,15KM,Biathlon,Winter,9998
+698,"""Team",Skiing,Winter,9998
+699,Singles,Luge,Winter,9998
+700,Combined 15 + 15KM Mass Start,Skiing,Winter,9998
+701,12.5Km Pursuit,Biathlon,Winter,9998
+702,Super-G,Skiing,Winter,9998
+703,Doubles,Luge,Winter,9998
+704,3000M,Skating,Winter,9998
+705,10KM,Skiing,Winter,9998
+706,Combined (4 Events),Skating,Winter,9998
+707,Slopestyle,Skiing,Winter,9998
+708,Ice Dancing,Skating,Winter,9998
+709,Relay Mix,Biathlon,Winter,9998
+710,1000M,Skating,Winter,9998
+711,50KM,Skiing,Winter,9998
+712,4X10KM Relay,Skiing,Winter,9998
+713,30KM Mass Start,Skiing,Winter,9998
+714,Combined 10KM + 15KM Pursuit,Skiing,Winter,9998
+715,K120 Individual (90M),Skiing,Winter,9998
+716,Curling,Curling,Winter,9998
+717,Individual,Skiing,Winter,9998
+718,4X7.5KM Relay,Biathlon,Winter,9998
+719,10000M,Skating,Winter,9998
+720,Teams,Skiing,Winter,9998
